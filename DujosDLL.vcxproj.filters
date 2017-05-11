@@ -61,4 +61,8 @@
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
+  <ItemGroup>
+    <Xml Include="classifications1.xml" />
+    <Xml Include="images1.xml" />
+  </ItemGroup>
 </Project>
